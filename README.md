@@ -1,4 +1,4 @@
-![MasterHead](https://github.com/KhushiBindal/KhushiBindal/blob/main/WELCOME.gif)
+![MasterHead](https://github.com/KhushiBindal/KhushiBindal/blob/main/WELCOME%20(1).gif)
 <h3 align="center"> Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I am Khushi Bindal ! </h3>
 
 <h3 align="center">Driven with a deep passion for web development and software development</h3>
