@@ -11,7 +11,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/KhushiBindal](https://github.com/KhushiBindal)
 
-- 💬 Ask me about **MERN, Software Development**
+- 💬 Ask me about **MERN & Software Development**
 
 - 📫 How to reach me **khusibindal01@gmail.com**
 
